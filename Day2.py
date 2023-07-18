@@ -9,7 +9,7 @@ def convert_add(list):
 
 print(convert_add(["1", "3", "5"]))
 
-#Extra Challenge: Duplicate Names
+# Extra Challenge: Duplicate Names
 
 def duplicate_names(list: list):
   duplicate = []

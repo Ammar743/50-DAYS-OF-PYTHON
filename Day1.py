@@ -7,7 +7,7 @@ def divide_or_square(num):
   
 print(divide_or_square(10))
 
-#Extra Challenge: Longest Value
+# Extra Challenge: Longest Value
 
 def longest_value(dict):
   longest = 0
